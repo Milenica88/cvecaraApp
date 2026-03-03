@@ -1,5 +1,7 @@
 🌸 Flower Shop Ljubojević
 
+<img width="1739" height="947" alt="image" src="https://github.com/user-attachments/assets/a7dab50e-55c1-4981-8c1c-bc8001351b6c" />
+
 📌 Overview
 
 This is a simple static flower shop website built using HTML, CSS, and JavaScript.
